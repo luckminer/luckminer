@@ -1,7 +1,4 @@
-### (Namaste)🙏🏻, I am Jason Onorad 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-jasononorad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasononorad/)](https://www.linkedin.com/in/jasononorad/)
-[![Gmail Badge](https://img.shields.io/badge/-jasononorad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasononorad@gmail.com)](mailto:jasononorad@gmail.com)
+### (Namaste)🙏🏻, 👋
 
 - 🎯 Portfolio website: [Portfolio](https://jasononorad.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
