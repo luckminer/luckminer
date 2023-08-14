@@ -1,8 +1,7 @@
 ### (Namaste)🙏🏻, 👋
 
-- 🎯 Portfolio website: [Portfolio](https://jasononorad.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: 775 835 4877
 
 ### Languages and Tools:
 
@@ -23,7 +22,7 @@
 
 ### Things I love:
 
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Laravel, Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Full Stack Development ✍️
 
 <div align="center">
@@ -31,5 +30,3 @@
 &nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-
-[linkedin]: https://www.linkedin.com/in/jasononorad
