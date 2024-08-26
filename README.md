@@ -1,48 +1,91 @@
-### (Namaste)🙏🏻, 👋
+# enjoy YOUR LIFE with Code
 
-- 💬 Ask me about anything, I am happy to help :smile:
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /^/  /        /  \  \       /*/  /    /-/  /    /&&\  \   
+                               /^/__/        / /\ \  \     /*/  /    /-/  /    /&/\&\  \  
+                              /^^\  \ ___   /  \~\ \  \   /*/  /    /-/  /    /&/  \&\  \ 
+                             /^/\^\  /\__\ / /\ \ \ \__\ /*/__/    /-/__/    /&/__/ \&\__\
+                             \/__\^\/^/  / \ \~\ \ \/__/ \*\  \    \-\  \    \&\  \ /&/  /
+                                  \^^/  /   \ \ \ \__\    \*\  \    \-\  \    \&\  /&/  / 
+                                  /^/  /     \ \ \/__/     \*\  \    \-\  \    \&\/&/  /  
+                                 /^/  /       \ \__\        \*\__\    \-\__\    \&&/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-### Languages and Tools:
+## About Me:
 
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-<img align="left" alt="Angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Node" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="CSharp" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<br>
-<br>
-<img align="left" alt="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<br>
-<br>
-<img align="left" alt="Bitcoin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" />
-<img align="left" alt="Ethereum" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" />
-<br>
-<br>
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Mongo" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+- I am currently learning Data Science And Large Language Model (I have solved 170 leet code problems till now)
+- Aspiring to be a Principal Engineer in FANGG companies
+- Trainer @icodeguru(for data structures and algorithm)
+- I like watching podcasts and playing games (Not on gadgets like mobile but in reality) and sports
 
-<br>
-<br>
+## Skill Set:
 
-### Things I love:
+<table><tr><td valign="top" width="25%">
 
-- Python, Node <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Full Stack Development ✍️
-- NFT and DeFi
-
+### Frontend  
+<a href="https://github.com/luckminer">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/luckminer">
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️
-&nbsp; by starring some of the repositories!</h3>
+       <img src="https://skillicons.dev/icons?i=dotnet,java,python,ts,c,&perline=4" /> 
+</div>
+</a>
 
-<!--[website]: -->
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/luckminer">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,qt&perline=4" />
+</div>
+</a>
+</td>
+</tr></table>
+
+
+## Connect with me:
+<div align="center">
+    <a target="_blank" href="mailto:bloodyblades325@outlook.com"><img src="https://img.shields.io/badge/-bloodyblades325@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <!-- <a href="https://leetcode.com/u/luckminer/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+        <a href="https://medium.com/@luckminer" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a> -->
+</div>
+
+## Github Stats:
+<p align="center">
+    <a href="https://github.com/luckminer">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luckminer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luckminer&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/luckminer">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=luckminer&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=200px"/>
+  </a> 
+</p>
+
+
+ <p align="center">
+   <a href="https://github.com/luckminer"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=luckminer&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckminer" alt="luckminer" /></a> </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=luckminer&style=for-the-badge&color=orange" alt=""/>
+</div>
