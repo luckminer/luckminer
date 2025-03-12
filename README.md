@@ -19,6 +19,7 @@
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning,Odoo, recommendation system and reinforcement system.</br>
+- 🎨 Skilled in UI/UX design, creating intuitive and engaging user interfaces.
 </div>
 
 # 💻 My favorite tools and technologies
@@ -28,6 +29,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="65" height="65"  />
+      <br>Ruby on Rails
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
