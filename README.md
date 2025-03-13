@@ -56,16 +56,16 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="48" height="48"  />
+      <br>Ruby
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" alt="Rails" width="48" height="48"  />
+      <br>Rails
+    </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="48" height="48"  />
-    <br>Ruby
-  </td>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rails" alt="Rails" width="48" height="48"  />
-    <br>Rails
-  </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
