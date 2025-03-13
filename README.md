@@ -41,10 +41,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
@@ -60,15 +56,15 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
   </tr>
   <tr>
   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="48" height="48"  />
-    <br>Ruby on Rails
+      <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="48" height="48"  />
+    <br>Ruby
+  </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rails" alt="Rails" width="48" height="48"  />
+    <br>Rails
   </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
