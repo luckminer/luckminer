@@ -31,10 +31,6 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="65" height="65"  />
-      <br>Ruby on Rails
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
@@ -70,6 +66,10 @@
     </td>
   </tr>
   <tr>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="48" height="48"  />
+    <br>Ruby on Rails
+  </td>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
