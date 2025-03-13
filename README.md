@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Professional Software Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
@@ -13,11 +11,11 @@
 </p>
 
 <div>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about deep learning,Odoo, recommendation system and reinforcement system.</br>
-- 🎨 Skilled in UI/UX design, creating intuitive and engaging user interfaces.
+- Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
+- Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- Developed some AI Apps and integrated with web and ChatGPT.<br/>
+- Deep knowledge about deep learning,Odoo, recommendation system and reinforcement system.</br>
+- Skilled in UI/UX design, creating intuitive and engaging user interfaces.
 </div>
 
 # 💻 My favorite tools and technologies
