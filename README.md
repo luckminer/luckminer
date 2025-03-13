@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=With+over+8+years+of+experience;I+can+perform+all+of+your+requirement+perfectly" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Over+8+years+of+experience;Seamless+user+experiences+with+code;One+line+of+code+at+a+time;Kicking+bugs+to+the+curb!" alt="Typing SVG" /></a>
 </p>
 
 <div>
