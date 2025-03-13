@@ -31,7 +31,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ruby-on-rails-icon.svg" alt="Ruby on Rails" width="65" height="65"  />
+        <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="65" height="65"  />
       <br>Ruby on Rails
     </td>
     <td align="center" width="96">
@@ -146,13 +146,5 @@
     </td>
  </tr>
 </table>
-<br><br>
-
-## Contacts
-  <div align="center"> 
-  <a href="https://join.skype.com/invite/vO1o23iMx0hN" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Miracle0322" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp;
- 
+<br> 
 </div>
