@@ -80,12 +80,12 @@
       <br>AI
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="nuxtjs" />
-      <br>NuxtJS
+        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="ruby" />
+      <br>Ruby
     </td>
     <td align="center width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="rails" />
+      <br>Rails
     </td>
     <td align="center width="90">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
