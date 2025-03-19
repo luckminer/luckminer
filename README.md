@@ -136,12 +136,3 @@
   </tr>  
 </table>
 </div>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=happydev0126&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=happydev0126&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
----
-
-### 💬 Let's Connect!
-Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas.
