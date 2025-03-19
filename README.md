@@ -6,14 +6,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=800&size=40&pause=1000&color=5F5645&center=true&width=870&height=80&lines=Senior+full+stack+developer;Expert+in+advanced+coding+techniques;Passionate+about+efficient+coding;One+line+code+at+once" alt="Typing SVG" /></a>
 
-Frontend Expertise: Modern UI development with React, Next.js, TypeScript, Vue.js, and Angular for fast, interactive web apps.
-UI/UX Design: Creating user-friendly interfaces using Figma, Adobe XD, and design principles that prioritize clarity, accessibility, and engagement.
-Backend Development: Scalable APIs using Python (Django, FastAPI), Ruby on Rails, and PHP (WordPress & Laravel).
-WordPress Development: - Custom WordPress themes and plugins tailored to business needs. - WooCommerce setup and customization for e-commerce solutions. - Performance optimization and SEO-friendly WordPress development.
-Database & Performance Optimization: PostgreSQL, MySQL, and MongoDB with efficient indexing & caching strategies.
-API Development & Integrations: RESTful & GraphQL APIs, WordPress API, Stripe, Firebase, and third-party services.
-Agile & Remote Collaboration: Strong experience working with startups, product teams, and enterprise clients.
-Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD for seamless deployments.
+✔ **Frontend Expertise**: Modern UI development with React, Next.js, TypeScript, Vue.js, and Angular for fast, interactive web apps.
+✔ **UI/UX Design**: Creating user-friendly interfaces using Figma, Adobe XD, and design principles that prioritize clarity, accessibility, and engagement.
+✔ **Backend Development**: Scalable APIs using Python (Django, FastAPI), Ruby on Rails, and PHP (WordPress & Laravel).
+✔ **WordPress Development**: - Custom WordPress themes and plugins tailored to business needs. - WooCommerce setup and customization for e-commerce solutions. - Performance optimization and SEO-friendly WordPress development.
+✔ **Database & Performance Optimization**: PostgreSQL, MySQL, and MongoDB with efficient indexing & caching strategies.
+✔ **API Development & Integrations**: RESTful & GraphQL APIs, WordPress API, Stripe, Firebase, and third-party services.
+✔ **Agile & Remote Collaboration**: Strong experience working with startups, product teams, and enterprise clients.
+✔ **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD for seamless deployments.
 
 
  💻 My favorite tools and technologies
