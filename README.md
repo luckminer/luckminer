@@ -6,14 +6,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=800&size=40&pause=1000&color=5F5645&center=true&width=870&height=80&lines=Senior+full+stack+developer;Expert+in+advanced+coding+techniques;Passionate+about+efficient+coding;One+line+code+at+once" alt="Typing SVG" /></a>
 
-<p>✔ **Frontend Expertise**: Modern UI with React, Next.js, Vue.js, and Angular.</p>
-<p>✔ **UI/UX Design**: User-friendly interfaces using Figma and Adobe XD.</p>
-<p>✔ **Backend Development**: Scalable APIs with Django, FastAPI, Rails, and Laravel.</p>
-<p>✔ **WordPress Development**: Custom themes, plugins, and WooCommerce setups.</p>
-<p>✔ **Database Optimization**: Efficient indexing with PostgreSQL, MySQL, and MongoDB.</p>
-<p>✔ **API Integrations**: RESTful & GraphQL APIs, Stripe, Firebase.</p>
-<p>✔ **Agile & Remote Collaboration**: Experience with startups and enterprise clients.</p>
-<p>✔ **Cloud & DevOps**: AWS, Docker, Kubernetes, and CI/CD.</p>
+✔ **Frontend Expertise**: Modern UI with React, Next.js, Vue.js, and Angular.</br>
+✔ **UI/UX Design**: User-friendly interfaces using Figma and Adobe XD.</br>
+✔ **Backend Development**: Scalable APIs with Django, FastAPI, Rails, and Laravel.</br>
+✔ **WordPress Development**: Custom themes, plugins, and WooCommerce setups.</br>
+✔ **Database Optimization**: Efficient indexing with PostgreSQL, MySQL, and MongoDB.</br>
+✔ **API Integrations**: RESTful & GraphQL APIs, Stripe, Firebase.</br>
+✔ **Agile & Remote Collaboration**: Experience with startups and enterprise clients.</br>
+✔ **Cloud & DevOps**: AWS, Docker, Kubernetes, and CI/CD.</br>
 
 
  💻 My favorite tools and technologies
