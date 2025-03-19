@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=800&size=40&pause=1000&color=5F5645&center=true&width=870&height=80&lines=Senior+full+stack+developer;Expert+in+advanced+coding+techniques;Passionate+about+efficient+coding;One+line+code+at+once" alt="Typing SVG" /></a>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
