@@ -6,15 +6,32 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=800&size=40&pause=1000&color=5F5645&center=true&width=870&height=80&lines=Senior+full+stack+developer;Expert+in+advanced+coding+techniques;Passionate+about+efficient+coding;One+line+code+at+once" alt="Typing SVG" /></a>
 
-✔ **Frontend Expertise**: Modern UI with React, Next.js, Vue.js, and Angular.</br>
-✔ **UI/UX Design**: User-friendly interfaces using Figma and Adobe XD.</br>
-✔ **Backend Development**: Scalable APIs with Django, FastAPI, Rails, and Laravel.</br>
-✔ **WordPress Development**: Custom themes, plugins, and WooCommerce setups.</br>
-✔ **Database Optimization**: Efficient indexing with PostgreSQL, MySQL, and MongoDB.</br>
-✔ **API Integrations**: RESTful & GraphQL APIs, Stripe, Firebase.</br>
-✔ **Agile & Remote Collaboration**: Experience with startups and enterprise clients.</br>
-✔ **Cloud & DevOps**: AWS, Docker, Kubernetes, and CI/CD.</br>
+## Full Stack Dev & UI/UX Designer | Python, JS, TS, Ruby & WP Specialist
 
+### What I Offer:
+- **Frontend Expertise**: Modern UI development with React, Next.js, TypeScript, Vue.js, and Angular.
+- **UI/UX Design**: Creating user-friendly interfaces using Figma, Adobe XD.
+- **Backend Development**: Scalable APIs using Python (Django, FastAPI), Ruby on Rails, and PHP (WordPress & Laravel).
+- **WordPress Development**: Custom themes and plugins, WooCommerce setup, performance optimization.
+- **Database & Performance Optimization**: PostgreSQL, MySQL, MongoDB.
+- **API Development & Integrations**: RESTful & GraphQL APIs, WordPress API, Stripe, Firebase.
+- **Agile & Remote Collaboration**: Experience with startups, product teams, enterprise clients.
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD.
+
+Let’s Build Something Amazing! 🚀
+Contact me today to get started.
+
+## Integration Specialist | API Development, Middleware, Cloud, AI & Automation
+
+As an Integration Specialist with over 8 years of experience, I excel at creating seamless integrations across complex systems. My focus areas include:
+
+- **API Development**: Custom RESTful and SOAP APIs.
+- **Middleware & Automation**: Platforms like Zapier, Mulesoft, Dell Boomi.
+- **Cloud Integration**: AWS, Azure, Google Cloud.
+- **AI Integration**: Machine learning models and AI tools (TensorFlow, Keras, OpenAI API).
+- **Data Synchronization & Security**: Data mapping, real-time sync, robust security protocols.
+
+I deliver solutions that enhance operational efficiency, scalability, and security, ensuring your technology ecosystem is optimized for growth.
 
  💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
